@@ -14,3 +14,19 @@ python main.py
  pygame 2.0.0 (SDL 2.0.12, python 3.8.5)
 
 ## This project is splitted to parts for simplicity. You can find code as it was developed. Each part can be runned independently from other parts. 
+
+
+
+
+
+
+
+## Reference
+
+Big thanks to Standalone Coder for tutorials
+
+https://www.youtube.com/watch?v=SmKBsArp2dI&list=PLzuEVvwBnAsZGeSVhOXpnW-ULsGYpNyQe
+
+RL example with pygame (Keras)
+
+https://medium.com/@sanilkhurana7/building-a-neural-network-that-learns-to-play-a-game-part-1-e408ae7106d0
