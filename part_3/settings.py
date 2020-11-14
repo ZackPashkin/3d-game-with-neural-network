@@ -13,6 +13,7 @@ HALF_HEIGHT = HEIGHT // 2
 # for map.py
 TILE = 100
 
+
 FPS = 60
 
 # player settings

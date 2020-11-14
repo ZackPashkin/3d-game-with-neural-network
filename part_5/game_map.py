@@ -4,11 +4,11 @@ simple_text_map = [
     'WWWWWWWWWWWWW',
     'W...........W',
     'W....WW.....W',
-    'W.......WW..W',
+    'W...........W',
     'W...........W',
     'W.......WW..W',
-    'W..WW.......W',
-    'W......WW...W',
+    'W.WW........W',
+    'W...........W',
     'WWWWWWWWWWWWW'
 ]
 word_map = set()
