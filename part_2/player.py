@@ -16,6 +16,7 @@ class Player:
     def movement(self):
         """
         Player control here
+        https://www.pygame.org/docs/ref/key.html
         
         K_UP --> up arrow,
         K_DOWN  --> down arrow,
@@ -31,4 +32,6 @@ class Player:
             self.x -= PLAYER_SPEED
         if keys[pg.K_RIGHT]:
             self.x += PLAYER_SPEED
+            
+      
       

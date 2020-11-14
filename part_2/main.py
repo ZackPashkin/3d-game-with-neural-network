@@ -18,6 +18,7 @@ while True:
     sc.fill(BLACK_COLOR)
     
     pg.draw.circle(sc, BLUE_COLOR, player.position, HERO_SIZE)
+
     
     pg.display.flip()
     clock.tick(FPS)
