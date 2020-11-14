@@ -1,1 +1,0 @@
-## This is starter setup to discplay a circle in the centre of the game window
